@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-05-30T01:03:40.069753Z",
+  "fetched_at": "2026-05-30T01:37:57.058394Z",
   "report_date": "2026-05-29",
   "yesterday": [
     {
       "sessionSource": "(direct)",
       "sessionMedium": "(none)",
-      "sessions": "24",
-      "activeUsers": "18",
+      "sessions": "25",
+      "activeUsers": "19",
       "conversions": "1",
       "purchaseRevenue": "77.9",
       "ecommercePurchases": "1"
@@ -23,7 +23,7 @@
     {
       "sessionSource": "l.instagram.com",
       "sessionMedium": "referral",
-      "sessions": "13",
+      "sessions": "14",
       "activeUsers": "2",
       "conversions": "0",
       "purchaseRevenue": "0",
@@ -97,8 +97,8 @@
     {
       "sessionSource": "(direct)",
       "sessionMedium": "(none)",
-      "sessions": "212",
-      "activeUsers": "171",
+      "sessions": "213",
+      "activeUsers": "172",
       "conversions": "3",
       "purchaseRevenue": "138.85000000000002",
       "ecommercePurchases": "3"
@@ -115,7 +115,7 @@
     {
       "sessionSource": "l.instagram.com",
       "sessionMedium": "referral",
-      "sessions": "65",
+      "sessions": "66",
       "activeUsers": "12",
       "conversions": "0",
       "purchaseRevenue": "0",
@@ -326,7 +326,7 @@
     },
     {
       "landingPage": "/products/fidget-hearts",
-      "sessions": "10",
+      "sessions": "11",
       "conversions": "0",
       "purchaseRevenue": "0"
     },
@@ -363,6 +363,12 @@
     {
       "landingPage": "/products/fidget-moons",
       "sessions": "2",
+      "conversions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "landingPage": "/products/pride-moons",
+      "sessions": "1",
       "conversions": "0",
       "purchaseRevenue": "0"
     },
