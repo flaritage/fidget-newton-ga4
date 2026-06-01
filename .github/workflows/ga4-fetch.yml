@@ -3,9 +3,9 @@ name: GA4 Daily Fetch
 on:
   schedule:
     # 3:30am PT = 11:30am UTC (standard time) / 10:30am UTC (daylight time)
-    # Using 11:30 UTC — works correctly Nov–Mar; runs at 3:30am PDT May–Nov (one hour early, acceptable)
+    # Using 11:30 UTC -- works correctly Nov-Mar; runs at 3:30am PDT May-Nov (one hour early, acceptable)
     - cron: '30 11 * * *'
-  workflow_dispatch:  # allow manual runs
+  workflow_dispatch: # allow manual runs
 
 jobs:
   fetch:
@@ -39,3 +39,14 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update GA4 cache $(date -u +%Y-%m-%d)"
           git pull --rebase
           git push
+
+      - name: Update public Gist
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: |
+          CONTENT=$(python3 -c "import json; print(json.dumps(open('ga4_cache.json').read()))")
+          curl -s -X PATCH \
+            -H "Authorization: token $GIST_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{\"files\":{\"ga4_cache.json\":{\"content\":$CONTENT}}}" \
+            "https://api.github.com/gists/f77d144b7197e15abca389beea0b0133"
