@@ -1,158 +1,39 @@
 {
-  "fetched_at": "2026-09-25T15:53:38.165994Z",
-  "report_date": "2026-09-24",
+  "fetched_at": "2026-09-26T15:04:10.571250Z",
+  "report_date": "2026-09-25",
   "yesterday": [
     {
       "sessionSource": "(direct)",
       "sessionMedium": "(none)",
-      "sessions": "66",
-      "activeUsers": "58",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
+      "sessions": "131",
+      "activeUsers": "119",
+      "conversions": "2",
+      "purchaseRevenue": "89",
+      "ecommercePurchases": "2"
     },
     {
       "sessionSource": "google",
       "sessionMedium": "organic",
-      "sessions": "35",
-      "activeUsers": "26",
+      "sessions": "37",
+      "activeUsers": "24",
       "conversions": "3",
-      "purchaseRevenue": "304",
+      "purchaseRevenue": "233",
       "ecommercePurchases": "3"
-    },
-    {
-      "sessionSource": "(not set)",
-      "sessionMedium": "(not set)",
-      "sessions": "31",
-      "activeUsers": "25",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "youtube.com",
-      "sessionMedium": "referral",
-      "sessions": "8",
-      "activeUsers": "5",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "tiktok.com",
-      "sessionMedium": "referral",
-      "sessions": "6",
-      "activeUsers": "4",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
     },
     {
       "sessionSource": "(data not available)",
       "sessionMedium": "(data not available)",
-      "sessions": "5",
-      "activeUsers": "5",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "ig",
-      "sessionMedium": "social",
-      "sessions": "5",
-      "activeUsers": "5",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "judgeme",
-      "sessionMedium": "referral",
-      "sessions": "3",
-      "activeUsers": "2",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "shopify_email",
-      "sessionMedium": "email",
-      "sessions": "2",
-      "activeUsers": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "",
-      "sessionMedium": "",
-      "sessions": "1",
-      "activeUsers": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "Klaviyo",
-      "sessionMedium": "email",
-      "sessions": "1",
-      "activeUsers": "0",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "google",
-      "sessionMedium": "product_sync",
-      "sessions": "1",
-      "activeUsers": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "shop_app",
-      "sessionMedium": "",
-      "sessions": "1",
-      "activeUsers": "1",
+      "sessions": "20",
+      "activeUsers": "18",
       "conversions": "1",
-      "purchaseRevenue": "150",
+      "purchaseRevenue": "50",
       "ecommercePurchases": "1"
     },
     {
-      "sessionSource": "shop_app",
+      "sessionSource": "tiktok.com",
       "sessionMedium": "referral",
-      "sessions": "1",
-      "activeUsers": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    }
-  ],
-  "prior_7_days": [
-    {
-      "sessionSource": "(direct)",
-      "sessionMedium": "(none)",
-      "sessions": "433",
-      "activeUsers": "364",
-      "conversions": "5",
-      "purchaseRevenue": "286",
-      "ecommercePurchases": "5"
-    },
-    {
-      "sessionSource": "google",
-      "sessionMedium": "organic",
-      "sessions": "272",
-      "activeUsers": "196",
-      "conversions": "5",
-      "purchaseRevenue": "409",
-      "ecommercePurchases": "5"
-    },
-    {
-      "sessionSource": "(not set)",
-      "sessionMedium": "(not set)",
-      "sessions": "54",
-      "activeUsers": "43",
+      "sessions": "13",
+      "activeUsers": "13",
       "conversions": "0",
       "purchaseRevenue": "0",
       "ecommercePurchases": "0"
@@ -160,53 +41,17 @@
     {
       "sessionSource": "youtube.com",
       "sessionMedium": "referral",
-      "sessions": "50",
-      "activeUsers": "36",
-      "conversions": "3",
-      "purchaseRevenue": "196.95",
-      "ecommercePurchases": "3"
+      "sessions": "11",
+      "activeUsers": "9",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
     },
     {
       "sessionSource": "ig",
       "sessionMedium": "social",
-      "sessions": "31",
-      "activeUsers": "31",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "judgeme",
-      "sessionMedium": "referral",
-      "sessions": "19",
-      "activeUsers": "5",
-      "conversions": "2",
-      "purchaseRevenue": "50.755118",
-      "ecommercePurchases": "2"
-    },
-    {
-      "sessionSource": "tiktok.com",
-      "sessionMedium": "referral",
-      "sessions": "18",
-      "activeUsers": "16",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "Klaviyo",
-      "sessionMedium": "email",
-      "sessions": "10",
-      "activeUsers": "5",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "l.instagram.com",
-      "sessionMedium": "referral",
-      "sessions": "7",
-      "activeUsers": "7",
+      "sessions": "8",
+      "activeUsers": "8",
       "conversions": "0",
       "purchaseRevenue": "0",
       "ecommercePurchases": "0"
@@ -223,17 +68,17 @@
     {
       "sessionSource": "duckduckgo",
       "sessionMedium": "organic",
-      "sessions": "6",
-      "activeUsers": "4",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
+      "sessions": "4",
+      "activeUsers": "2",
+      "conversions": "1",
+      "purchaseRevenue": "55",
+      "ecommercePurchases": "1"
     },
     {
-      "sessionSource": "(data not available)",
-      "sessionMedium": "(data not available)",
-      "sessions": "5",
-      "activeUsers": "5",
+      "sessionSource": "judgeme",
+      "sessionMedium": "referral",
+      "sessions": "3",
+      "activeUsers": "2",
       "conversions": "0",
       "purchaseRevenue": "0",
       "ecommercePurchases": "0"
@@ -241,8 +86,145 @@
     {
       "sessionSource": "chatgpt.com",
       "sessionMedium": "ai-assistant",
-      "sessions": "5",
+      "sessions": "2",
+      "activeUsers": "2",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    },
+    {
+      "sessionSource": "",
+      "sessionMedium": "",
+      "sessions": "1",
+      "activeUsers": "1",
+      "conversions": "1",
+      "purchaseRevenue": "39",
+      "ecommercePurchases": "1"
+    },
+    {
+      "sessionSource": "Klaviyo",
+      "sessionMedium": "email",
+      "sessions": "1",
+      "activeUsers": "1",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    }
+  ],
+  "prior_7_days": [
+    {
+      "sessionSource": "(direct)",
+      "sessionMedium": "(none)",
+      "sessions": "506",
+      "activeUsers": "438",
+      "conversions": "7",
+      "purchaseRevenue": "375",
+      "ecommercePurchases": "7"
+    },
+    {
+      "sessionSource": "google",
+      "sessionMedium": "organic",
+      "sessions": "267",
+      "activeUsers": "185",
+      "conversions": "7",
+      "purchaseRevenue": "537",
+      "ecommercePurchases": "7"
+    },
+    {
+      "sessionSource": "youtube.com",
+      "sessionMedium": "referral",
+      "sessions": "55",
+      "activeUsers": "40",
+      "conversions": "3",
+      "purchaseRevenue": "196.95",
+      "ecommercePurchases": "3"
+    },
+    {
+      "sessionSource": "ig",
+      "sessionMedium": "social",
+      "sessions": "35",
+      "activeUsers": "35",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    },
+    {
+      "sessionSource": "tiktok.com",
+      "sessionMedium": "referral",
+      "sessions": "30",
+      "activeUsers": "28",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    },
+    {
+      "sessionSource": "(not set)",
+      "sessionMedium": "(not set)",
+      "sessions": "22",
+      "activeUsers": "17",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    },
+    {
+      "sessionSource": "(data not available)",
+      "sessionMedium": "(data not available)",
+      "sessions": "20",
+      "activeUsers": "18",
+      "conversions": "1",
+      "purchaseRevenue": "50",
+      "ecommercePurchases": "1"
+    },
+    {
+      "sessionSource": "judgeme",
+      "sessionMedium": "referral",
+      "sessions": "18",
       "activeUsers": "5",
+      "conversions": "2",
+      "purchaseRevenue": "50.755118",
+      "ecommercePurchases": "2"
+    },
+    {
+      "sessionSource": "linktr.ee",
+      "sessionMedium": "referral",
+      "sessions": "12",
+      "activeUsers": "12",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    },
+    {
+      "sessionSource": "Klaviyo",
+      "sessionMedium": "email",
+      "sessions": "10",
+      "activeUsers": "6",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    },
+    {
+      "sessionSource": "duckduckgo",
+      "sessionMedium": "organic",
+      "sessions": "10",
+      "activeUsers": "5",
+      "conversions": "1",
+      "purchaseRevenue": "55",
+      "ecommercePurchases": "1"
+    },
+    {
+      "sessionSource": "chatgpt.com",
+      "sessionMedium": "ai-assistant",
+      "sessions": "7",
+      "activeUsers": "7",
+      "conversions": "0",
+      "purchaseRevenue": "0",
+      "ecommercePurchases": "0"
+    },
+    {
+      "sessionSource": "l.instagram.com",
+      "sessionMedium": "referral",
+      "sessions": "7",
+      "activeUsers": "7",
       "conversions": "0",
       "purchaseRevenue": "0",
       "ecommercePurchases": "0"
@@ -302,6 +284,15 @@
       "ecommercePurchases": "0"
     },
     {
+      "sessionSource": "shop_app",
+      "sessionMedium": "(not set)",
+      "sessions": "2",
+      "activeUsers": "1",
+      "conversions": "1",
+      "purchaseRevenue": "150",
+      "ecommercePurchases": "1"
+    },
+    {
       "sessionSource": "shopify_email",
       "sessionMedium": "email",
       "sessions": "2",
@@ -315,36 +306,9 @@
       "sessionMedium": "",
       "sessions": "1",
       "activeUsers": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "google",
-      "sessionMedium": "product_sync",
-      "sessions": "1",
-      "activeUsers": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
-    },
-    {
-      "sessionSource": "shop_app",
-      "sessionMedium": "",
-      "sessions": "1",
-      "activeUsers": "1",
       "conversions": "1",
-      "purchaseRevenue": "150",
+      "purchaseRevenue": "39",
       "ecommercePurchases": "1"
-    },
-    {
-      "sessionSource": "shop_app",
-      "sessionMedium": "(not set)",
-      "sessions": "1",
-      "activeUsers": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0",
-      "ecommercePurchases": "0"
     },
     {
       "sessionSource": "shop_app",
@@ -358,61 +322,55 @@
   ],
   "landing_pages": [
     {
-      "landingPage": "",
-      "sessions": "41",
-      "conversions": "1",
-      "purchaseRevenue": "110"
-    },
-    {
       "landingPage": "/",
-      "sessions": "34",
-      "conversions": "0",
-      "purchaseRevenue": "0"
+      "sessions": "125",
+      "conversions": "2",
+      "purchaseRevenue": "128"
     },
     {
       "landingPage": "/products/fidget-macaron",
-      "sessions": "32",
-      "conversions": "2",
-      "purchaseRevenue": "194"
+      "sessions": "47",
+      "conversions": "5",
+      "purchaseRevenue": "283"
     },
     {
-      "landingPage": "/collections/frontpage",
-      "sessions": "15",
-      "conversions": "0",
-      "purchaseRevenue": "0"
-    },
-    {
-      "landingPage": "/collections/all",
-      "sessions": "13",
-      "conversions": "0",
-      "purchaseRevenue": "0"
-    },
-    {
-      "landingPage": "/products/cindell-of-the-month-club",
-      "sessions": "4",
+      "landingPage": "",
+      "sessions": "22",
       "conversions": "0",
       "purchaseRevenue": "0"
     },
     {
       "landingPage": "/products/cindells-handbag",
-      "sessions": "4",
-      "conversions": "0",
-      "purchaseRevenue": "0"
-    },
-    {
-      "landingPage": "/products/fidget-moons",
-      "sessions": "3",
-      "conversions": "0",
-      "purchaseRevenue": "0"
-    },
-    {
-      "landingPage": "/orders/4d478c9b3cde4a9907405c1257592808",
-      "sessions": "2",
+      "sessions": "8",
       "conversions": "0",
       "purchaseRevenue": "0"
     },
     {
       "landingPage": "/products/dark-side-of-the-fidget-moon",
+      "sessions": "8",
+      "conversions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "landingPage": "/pages/about-us",
+      "sessions": "5",
+      "conversions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "landingPage": "/products/cindell-of-the-month-club",
+      "sessions": "5",
+      "conversions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "landingPage": "/products/fidget-hearts",
+      "sessions": "3",
+      "conversions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "landingPage": "/pages/partnerships",
       "sessions": "2",
       "conversions": "0",
       "purchaseRevenue": "0"
@@ -424,25 +382,31 @@
       "purchaseRevenue": "0"
     },
     {
-      "landingPage": "/checkouts/cn/hWNHD525gzCxRAQ9TkcpngUl/en-no",
+      "landingPage": "/products/pride-moons",
+      "sessions": "2",
+      "conversions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "landingPage": "/products/shell-macaron-1",
+      "sessions": "2",
+      "conversions": "0",
+      "purchaseRevenue": "0"
+    },
+    {
+      "landingPage": "/checkouts/cn/hWNH8weEHtTgSg6SJhAzE8Mj/en-us/thank-you",
+      "sessions": "1",
+      "conversions": "1",
+      "purchaseRevenue": "55"
+    },
+    {
+      "landingPage": "/orders/4d478c9b3cde4a9907405c1257592808",
       "sessions": "1",
       "conversions": "0",
       "purchaseRevenue": "0"
     },
     {
-      "landingPage": "/orders/5183a1bbaf0c962f09d4b3f39a2e8c9e",
-      "sessions": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0"
-    },
-    {
-      "landingPage": "/orders/c133ac7d486569ad16151ff3b0aadf02",
-      "sessions": "1",
-      "conversions": "0",
-      "purchaseRevenue": "0"
-    },
-    {
-      "landingPage": "/products/blood-core-macarons",
+      "landingPage": "/orders/b0b6ffe19d60c7b7ae9d4efbf4daba6f",
       "sessions": "1",
       "conversions": "0",
       "purchaseRevenue": "0"
